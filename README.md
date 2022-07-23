@@ -2,7 +2,7 @@
 3D Shape reconstruction
 
 Created by ----->Rohit Rai, Md Meraz and Mohammed Javed
-![plot](./basic.jpeg)
+![plot](./basic.JPG)
 
 ## Release
 
