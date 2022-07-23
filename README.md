@@ -6,7 +6,7 @@ Created by ----->Rohit Rai, Md Meraz and Mohammed Javed
 
 ## Release
 
-Souce code is Publicly available in November First weak.
+Souce code will be publicly available by november first week.
 
 ## How to use Code
 Requirements
